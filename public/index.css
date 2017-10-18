@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+* {
+  font-family: 'Roboto Condensed', serif;
+}
+
+#page-header {
+  text-align: center;
+}
+
+p {
+  margin: 0 auto;
+  text-align: center;
+  width: 70%;
+}
+body {
+  background-color: #EBF2FA
+}
+
+h1 {
+  color: #064789
+}
+
+h3 {
+  text-align: center;
+  color: #064789;
+}
